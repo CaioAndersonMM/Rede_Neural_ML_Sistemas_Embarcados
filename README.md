@@ -14,7 +14,7 @@ Este repositório contém um exemplo simples de treinamento de redes neurais usa
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.gitOs modelos treinados e resultados são salvos localmente, ajuste conforme necessário para seu caso de uso.
+   git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
 
 2. Dependências
